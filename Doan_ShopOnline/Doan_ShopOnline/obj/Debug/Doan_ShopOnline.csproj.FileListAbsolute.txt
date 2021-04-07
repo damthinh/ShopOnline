@@ -1,0 +1,168 @@
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll.config
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.pdb
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe.config
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.rsp
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.exe
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.rsp
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.rsp
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\WebGrease.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csprojAssemblyReference.cache
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CopyComplete
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.dll
+C:\Users\vuong\source\repos\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.pdb
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll.config
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.pdb
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe.config
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.rsp
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.exe
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.rsp
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.rsp
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\WebGrease.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csprojAssemblyReference.cache
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CopyComplete
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.dll
+C:\Users\vuong\OneDrive\Máy tính\New folder\Wedshop\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.pdb
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll.config
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Doan_ShopOnline.pdb
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.exe.config
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csc.rsp
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.exe
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\csi.rsp
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.AppContext.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.exe.config
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\vbc.rsp
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\WebGrease.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Helpers.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Mvc.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Optimization.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.Razor.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\System.Web.WebPages.Razor.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Newtonsoft.Json.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Antlr3.Runtime.pdb
+D:\file\Doan_ShopOnline\Doan_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\file\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csprojAssemblyReference.cache
+D:\file\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CoreCompileInputs.cache
+D:\file\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.csproj.CopyComplete
+D:\file\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.dll
+D:\file\Doan_ShopOnline\Doan_ShopOnline\obj\Debug\Doan_ShopOnline.pdb
