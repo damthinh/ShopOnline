@@ -18,9 +18,10 @@ namespace Doan_ShopOnline.Controllers
         }
 
         // GET: Shop/Details/5
+
         public ActionResult Details(String id)
         {
-            var db = ShopOnlineBUS.Chitiet(id);
+            var db = ShopOnlineBUS.ChiTiet(id);
 
             return View(db);
         }

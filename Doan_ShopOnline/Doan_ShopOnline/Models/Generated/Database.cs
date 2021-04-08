@@ -161,31 +161,43 @@ namespace ShopOnlineConnection
 
 
 
+
+
+		[Column] public string TinhTrang { get; set; }
+
+
+
 	}
 
     
 
-	[TableName("dbo.NhaSanSuat")]
+	[TableName("dbo.NhaSanXuat")]
 
 
 
-	[PrimaryKey("MaNhaSanSuat", AutoIncrement=false)]
+	[PrimaryKey("MaNhaSanXuat", AutoIncrement=false)]
 
 
 	[ExplicitColumns]
 
-    public partial class NhaSanSuat : ShopOnlineConnectionDB.Record<NhaSanSuat>  
+    public partial class NhaSanXuat : ShopOnlineConnectionDB.Record<NhaSanXuat>  
     {
 
 
 
-		[Column] public string MaNhaSanSuat { get; set; }
+		[Column] public string MaNhaSanXuat { get; set; }
 
 
 
 
 
-		[Column] public string TenNhaSanSuat { get; set; }
+		[Column] public string TenNhaSanXuat { get; set; }
+
+
+
+
+
+		[Column] public string TinhTrang { get; set; }
 
 
 
@@ -213,7 +225,7 @@ namespace ShopOnlineConnection
 
 
 
-		[Column] public string MaNhaSanSuat { get; set; }
+		[Column] public string MaNhaSanXuat { get; set; }
 
 
 
@@ -273,19 +285,25 @@ namespace ShopOnlineConnection
 
 
 
+		[Column] public int? LuotXem { get; set; }
+
+
+
+
+
 		[Column] public int? SoLuongBan { get; set; }
 
 
 
 
 
-		[Column] public int? LuotView { get; set; }
+		[Column] public string TinhTrang { get; set; }
 
 
 
 
 
-		[Column] public int? TinhTrang { get; set; }
+		[Column] public string GhiChu { get; set; }
 
 
 

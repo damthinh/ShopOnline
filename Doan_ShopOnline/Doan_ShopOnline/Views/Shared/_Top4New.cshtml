@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ShopOnlineConnection.SanPham>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="heading"><h2>Hàng Mới</h2></div>
+        <div class="products">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-4 col-xs-12">
+                    <div class="product">
+                        <div class="image"><a href="@Url.Action("Details","Shop", new { id =item.MaSanPham})"><img style="min-width:156px;min-height:300px" src="~/Asset/images/@item.HinhChinh" /></a></div>
+                        <div class="buttons">
+                            <a class="btn cart" href="#"><span class="glyphicon glyphicon-shopping-cart"></span></a>
+                            <a class="btn wishlist" href="#"><span class="glyphicon glyphicon-heart"></span></a>
+                            <a class="btn compare" href="#"><span class="glyphicon glyphicon-transfer"></span></a>
+                        </div>
+                        <div class="caption">
+                            <div class="name"><h3><a href="@Url.Action("Details","Shop", new { id =item.MaSanPham})">@item.TenSanPham</a></h3></div>
+                            <div class="price">@item.Gia<span></span></div>
+                            <div class="rating"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star-empty"></span></div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

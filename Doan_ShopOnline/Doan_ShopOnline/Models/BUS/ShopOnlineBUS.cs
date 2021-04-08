@@ -13,10 +13,21 @@ namespace Doan_ShopOnline.Models.BUS
             var db = new ShopOnlineConnectionDB();
             return db.Query<SanPham>("select * from SanPham where TinhTrang = 0");
         }
-        public static SanPham Chitiet(String a)
+        public static SanPham ChiTiet(String a)
         {
             var db = new ShopOnlineConnectionDB();
-            return db.SingleOrDefault<SanPham>("select * from SanPham where MaSanPham = @0", a);
+            return db.SingleOrDefault<SanPham>("select * from SanPham where MaSanPham = @0",a);
         }
+        public static IEnumerable<SanPham> Top4New()
+        {
+            var db = new ShopOnlineConnectionDB();
+            return db.Query<SanPham>("select * from SanPham where GhiChu = N'New'");
+        }
+        public static IEnumerable<SanPham> TopHot()
+        {
+            var db = new ShopOnlineConnectionDB();
+            return db.Query<SanPham>("select * from SanPham where LuotXem > 2") ;
+        }
+
     }
 }
